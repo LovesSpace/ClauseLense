@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Legal Contract Dashboard
 
 A web-based application that allows users to upload legal documents (PDF/DOCX) and receive automated analysis including simplified summaries, visual representations of key contract elements, risk assessments, and compliance checks.
