@@ -226,7 +226,7 @@ src/
 
 ## Sample Documents
 
-Sample contract documents for testing are available in the `samples/` directory (to be added).
+Sample contract documents for testing are available as 'rental_agreement.docx'.
 
 ## Security
 
