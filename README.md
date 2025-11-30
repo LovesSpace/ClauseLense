@@ -51,16 +51,17 @@ The production build will be in the `dist/` directory.
 ## Usage
 
 1. Open the application in your browser
-2. Upload a legal document (PDF or DOCX format, max 10MB)
-3. Wait for the automated analysis to complete
-4. Explore the interactive dashboard with:
+2. Upload a legal document (PDF or DOCX format, max 10MB).
+3. Select the file: **rental_agreement.docx**
+4. Wait for the automated analysis to complete
+5. Explore the interactive dashboard with:
    - Key insights and summary cards
    - Risk assessment visualization
    - Cost breakdown charts
    - Timeline view
    - Clause list with filtering
    - Compliance findings
-5. Download the PDF report for sharing or archiving
+6. Download the PDF report for sharing or archiving
 
 ## Testing
 
@@ -249,4 +250,3 @@ MIT
 ## Contributing
 
 Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
->>>>>>> 4f8baf0415f89a52abfadc144972d03a757d5f82
