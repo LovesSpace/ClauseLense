@@ -1,0 +1,104 @@
+# Sample Contract for Testing
+
+Copy this text into a Word document and save as DOCX to test the application.
+
+---
+
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 15, 2024, by and between:
+
+PARTIES
+
+Client: ABC Corporation, a Delaware corporation
+Service Provider: XYZ Consulting LLC, a California limited liability company
+
+TERM AND DURATION
+
+This Agreement shall commence on February 1, 2024, and shall continue for a period of twelve (12) months, unless terminated earlier in accordance with the terms herein. The Agreement shall automatically renew for successive one-year terms unless either party provides written notice of non-renewal at least thirty (30) days prior to the end of the then-current term.
+
+PAYMENT TERMS
+
+The Client shall pay the Service Provider a monthly fee of $5,000 (Five Thousand Dollars) for the services rendered. Payment shall be due within fifteen (15) days of receipt of invoice. Invoices will be sent on the first day of each month.
+
+In addition to the monthly fee, the Client shall reimburse the Service Provider for all reasonable and pre-approved expenses incurred in connection with the performance of services, including travel, accommodation, and materials.
+
+CONFIDENTIALITY
+
+Both parties agree to maintain the confidentiality of all proprietary and confidential information disclosed during the term of this Agreement. Neither party shall disclose such information to any third party without the prior written consent of the other party.
+
+The obligations of confidentiality shall survive the termination of this Agreement for a period of three (3) years.
+
+TERMINATION
+
+Either party may terminate this Agreement upon thirty (30) days' written notice to the other party. In the event of termination, the Client shall pay the Service Provider for all services rendered up to the date of termination.
+
+The Service Provider may terminate this Agreement immediately upon written notice if the Client fails to make payment within thirty (30) days of the due date.
+
+PENALTIES AND LIABILITY
+
+In the event of a material breach of this Agreement, the breaching party shall be liable for all damages incurred by the non-breaching party, including reasonable attorney's fees and costs.
+
+The Service Provider's total liability under this Agreement shall not exceed the total fees paid by the Client in the twelve (12) months preceding the claim.
+
+DISPUTE RESOLUTION
+
+Any disputes arising out of or relating to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall take place in San Francisco, California.
+
+GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law principles.
+
+RESPONSIBILITIES
+
+The Service Provider shall:
+- Provide consulting services as requested by the Client
+- Maintain professional standards in all work performed
+- Deliver monthly progress reports
+- Be available for meetings during normal business hours
+
+The Client shall:
+- Provide necessary information and access to perform services
+- Make timely payments as specified
+- Designate a primary point of contact
+- Provide feedback on deliverables within five (5) business days
+
+NON-COMPETE
+
+During the term of this Agreement and for a period of one (1) year following termination, the Service Provider shall not directly compete with the Client's business within the same geographic market or solicit the Client's customers.
+
+NON-SOLICITATION
+
+During the term of this Agreement and for a period of eighteen (18) months following termination, neither party shall solicit or hire any employees of the other party without prior written consent.
+
+ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, or agreements, whether written or oral.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+ABC Corporation
+By: John Smith, CEO
+Date: January 15, 2024
+
+XYZ Consulting LLC
+By: Jane Doe, Managing Partner
+Date: January 15, 2024
+
+---
+
+Instructions:
+1. Copy this entire text
+2. Paste into Microsoft Word or Google Docs
+3. Save as DOCX format
+4. Upload to the Legal Contract Dashboard
+5. Watch the analysis happen!
+
+Expected Results:
+- Parties: ABC Corporation, XYZ Consulting LLC
+- Duration: 12 months with auto-renewal
+- Payment: $5,000 monthly
+- Multiple clauses detected (payment, confidentiality, termination, etc.)
+- Risk assessment for various clauses
+- Compliance findings
+- Complexity score
